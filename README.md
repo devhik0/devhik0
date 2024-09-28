@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any kind of projects
 - 📫 My tech stack:  Next.js | Typescript | Tailwind | SQL & DevOps tools
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I ve been playing with computer since from my chilhood. Now we re understanding each other
+- ⚡ Fun fact: I ve been playing with computer since my chilhood. Now we re understanding each other
 
 <!---
 devhik0/devhik0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
