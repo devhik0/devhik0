@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @devhik0
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning Backend and Devops Tech
 - 💞️ I’m looking to collaborate on any kind of projects
 - 📫 My tech stack:  Next.js | Typescript | Tailwind | SQL & DevOps tools
 - 😄 Pronouns: he / him
